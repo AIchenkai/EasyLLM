@@ -371,4 +371,4 @@ with gr.Blocks(theme=gr.themes.Soft(), title="EasyLLM, a simple chatbot based on
 
 
 if __name__ == "__main__":
-    demo.launch(server_name = '124.207.219.135')
+    demo.launch()
