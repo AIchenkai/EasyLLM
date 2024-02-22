@@ -5,6 +5,8 @@
 ## Introduction
 EasyLLM is a concise project for applying large models, based on Large Language Models (LLMs), providing functionalities such as dialogue, knowledge base construction, and internet search. It supports API calls on large models deployed on Azure, OpenAI, and locally, and uses Gradio to build the user interface.
 
+EasyLLM 是一个简洁的大模型应用项目，基于大语言模型（LLMs），提供对话、知识库构建和互联网搜索等功能。它支持对部署在 Azure 的 OpenAI 服务 和本地的大型模型进行 API 调用，并使用 Gradio 构建用户界面。
+
 ## Disclaimer
 Please strictly adhere to the following agreements:
 
