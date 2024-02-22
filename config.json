@@ -1,0 +1,24 @@
+{
+  "Azure OpenAI": {
+    "api_key": "api_key",
+    "azure_model": "",
+    "api_type": "azure",
+    "api_base": "",
+    "api_version": "",
+    "engine": ""
+  },
+  "ChatGLM": {
+    "mode": "remote",
+    "model": "ChatGLM2",
+    "host": "http://127.0.0.1:5000",
+    "secret": ""
+  },
+  "Bing Search": {
+    "subscription_key": "subscription_key",
+    "endpoint": "https://api.bing.microsoft.com/v7.0/search"
+  },
+  "settings": {
+    "project_dir": "/root/projects/gpt2_cn/EasyLLM/knowledgebase",
+    "embedding_model_path":"/root/projects/gpt2_cn/LLMs/text2vec-large-chinese"
+  }
+}
