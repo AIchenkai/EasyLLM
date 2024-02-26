@@ -49,6 +49,7 @@ EasyLLM 是一个简洁的大模型应用项目，基于大语言模型（LLMs�
 ## 致谢
 我们感谢开源社区的贡献者以及 Gradio 的开发人员为其出色的工作。
 - Chatbot-Client：https://github.com/Wozzilla/Chatbot-Client
+- Search_with_lepton：https://github.com/leptonai/search_with_lepton
 - ChuanhuChatGPT：https://github.com/GaiZhenbiao/ChuanhuChatGPT
 - ChatGLM-6B：https://github.com/THUDM/ChatGLM-6B
 - Langchain-Chatchat：https://github.com/chatchat-space/Langchain-Chatchat
