@@ -51,9 +51,11 @@ Contributions and improvements are crucial to driving the continuous development
 ## Acknowledgements
 We appreciate the contributions of the open-source community and the developers of Gradio for their excellent work.
 - Chatbot-Client: https://github.com/Wozzilla/Chatbot-Client
+- Search_with_lepton：https://github.com/leptonai/search_with_lepton
 - ChuanhuChatGPT: https://github.com/GaiZhenbiao/ChuanhuChatGPT
 - ChatGLM-6B: https://github.com/THUDM/ChatGLM-6B
 - Langchain-Chatchat: https://github.com/chatchat-space/Langchain-Chatchat
+
 
 ## TODO
 - [ ] Add support for more NLG models.
