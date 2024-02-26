@@ -23,6 +23,9 @@ Please strictly adhere to the following agreements:
 - Support for internet search functionality.
 - Flexibility to switch between different local models and knowledge bases.
 
+## Webui Demo
+https://github.com/AIchenkai/EasyLLM/assets/pic/easyllm-video.mp4
+
 ## How to Use
 1. Clone the repository: `git clone https://github.com/your-username/EasyLLM.git`
 2. Install dependencies: `pip install -r requirements.txt`
