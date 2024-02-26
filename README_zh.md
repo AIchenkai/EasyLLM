@@ -1,4 +1,4 @@
-🌍 [Read in English](README.md)
+🌍 \[ [English](README.md) | 中文 \]
 
 # EasyLLM
 
@@ -20,6 +20,9 @@ EasyLLM 是一个简洁的大模型应用项目，基于大语言模型（LLMs�
 - 支持上传文件构建知识库。
 - 支持互联网搜索功能。
 - 可灵活切换不同的本地模型和知识库。
+
+## Webui Demo
+https://github.com/AIchenkai/EasyLLM/assets/121413549/0b1d2bad-f249-4dc3-8a22-f6752a299b6b
 
 ## 如何使用
 1. 克隆仓库：`git clone https://github.com/your-username/EasyLLM.git`
