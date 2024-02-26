@@ -24,7 +24,7 @@ Please strictly adhere to the following agreements:
 - Flexibility to switch between different local models and knowledge bases.
 
 ## Webui Demo
-https://github.com/AIchenkai/EasyLLM/assets/pic/easyllm-video.mp4
+https://github.com/AIchenkai/EasyLLM/assets/121413549/0b1d2bad-f249-4dc3-8a22-f6752a299b6b
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/your-username/EasyLLM.git`
