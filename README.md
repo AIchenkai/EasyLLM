@@ -1,4 +1,4 @@
-🌍 [中文介绍](README_zh.md)
+🌍 \[ English | [中文](README_zh.md) \]
 
 # EasyLLM
 
